@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="center">¡Hola Mi Nombre Es Jorge! 👋</h1>
+<h1 align="center">¡Hola somos el Equipo Nexicode! 👋</h1>
 
 ###
 
-<h3 align="left">Acerca de mí 😉</h3>
+<h3 align="left">Acerca de nosotros 😉</h3>
 
 ###
 
