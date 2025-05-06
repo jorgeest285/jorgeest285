@@ -1,8 +1,8 @@
 ![Portada Nexicode](./portada-github.png)
 
-<h1 align="center">¡Hola! Somos el equipo de Nexicode 👋</h1>
+<h1>¡Hola! Somos el equipo de Nexicode 👋</h1>
 
-<p align="center">
+<p>
   Desarrollamos sitios web modernos y funcionales para pequeñas y medianas empresas.<br />
   Nos enfocamos en brindar soluciones digitales que impulsen tu presencia en línea.
 </p>
@@ -18,6 +18,7 @@
 
 ---
 
+### 🛠 Tecnologías y herramientas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="Vue logo"  />
