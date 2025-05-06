@@ -1,3 +1,5 @@
+![Portada Nexicode](./portada-github.png)
+
 <h1 align="center">¡Hola! Somos el equipo de Nexicode 👋</h1>
 
 <p align="center">
